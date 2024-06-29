@@ -12,8 +12,8 @@ SWAP_HANDS_ENABLE = no      # Enable one-hand typing
 OLED_ENABLE = yes           # OLED display
 DYNAMIC_TAPPING_TERM_ENABLE = yes
 
-WPM_ENBLE = yes
-WPM_LAUNCH_CONTROL = yes
+# WPM_ENBLE = yes
+# WPM_LAUNCH_CONTROL = yes
 
 debounce_type = asym_eager_defer_pk
 
